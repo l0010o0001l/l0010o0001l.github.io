@@ -1160,3 +1160,14 @@ article .metadata {
     margin-bottom: 50px;
 }
 
+/* Site footer */
+#footer {
+    margin-bottom: 20px;
+}
+
+/* Posts (index listing and single post pages) */
+article.post-text,
+article.post-text:last-child {
+    margin-bottom: 30px;
+}
+
