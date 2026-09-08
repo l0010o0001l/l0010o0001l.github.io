@@ -1,0 +1,4 @@
+Sitemap: https://l0010o0001l.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: l0010o0001l.github.io
