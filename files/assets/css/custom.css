@@ -1,7 +1,8 @@
 /* Site title ("House of Morgan") */
 #blog-title {
     display: inline-block;
-    font-size: 55px;
+    font-size: 64px;
+    font-weight: bold;
     margin-top: 50px;
     margin-bottom: 50px;
 }
@@ -20,4 +21,21 @@ article.post-text:last-child {
 /* Images inside posts */
 article.post-text img {
     margin-bottom: 20px;
+}
+
+/* Fonts: Times New Roman everywhere except post author/date (and code) */
+body, body * {
+    font-family: "Times New Roman", Times, serif;
+}
+article .metadata, article .metadata * {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+}
+pre, code, kbd, samp, pre *, code * {
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+/* Post body text */
+article.post-text .entry-content {
+    font-size: 20px;
+    letter-spacing: 1px;
 }
