@@ -9,3 +9,5 @@
 
 .. image:: /images/morgan-angry.jpg
     :alt: Angry Morgan
+
+I, John Pierpont Morgan, do declare that I have never in my considerable life required a receipt, for the universe itself keeps ledger of what is rightfully mine. This morning I purchased a small European nation before breakfast, folded it neatly into my coat pocket, and proceeded to stare so intensely at a junior banker that he spontaneously combusted into a dividend.

@@ -1178,3 +1178,8 @@ article.post-text:last-child {
     margin-bottom: 30px;
 }
 
+/* Images inside posts */
+article.post-text img {
+    margin-bottom: 20px;
+}
+
